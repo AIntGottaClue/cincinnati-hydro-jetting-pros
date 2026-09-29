@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cincinnatihydrojetting.prosapp.site/sitemap.xml
